@@ -249,7 +249,7 @@ result = add_numbers(3, 5)  # Output: Funkcija bus iškviesta, Funkcija buvo iš
 print(result)  # Output: 8
 ```
 
-Šiame pavyzdyje `add_numbers` funkcija yra dekoruota dviem dekoratoriais: `print_before_decorator` ir `print_after_decorator`.
+Šiame pavyzdyje `add_numbers` funkcija yra dekoruota dviem dekoratoriais: `print_before_decorator` ir `print_after_decorator`. 
 
 ## `Setter`iai ir `Getter`iai
 
